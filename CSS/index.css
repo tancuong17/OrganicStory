@@ -211,4 +211,8 @@ header div {
     .product {
        font-size: 0.7rem;
     }
+
+    .title-product {
+        font-size: 1.2rem;
+    }
 }
